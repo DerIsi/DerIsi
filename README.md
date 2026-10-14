@@ -1,11 +1,19 @@
-### 👋 Hi there, I'm Ismail or in short Isi! 🚀
+### 👋 Hi there, I'm Ismail – or simply Isi! 🚀
 
-As the **Lead Cloud Architect** at Mercedes Benz Leasing Deutschland, I specialize in designing and managing cloud solutions, with Kubernetes as our main computing resource. ☁️🔧
-My tech journey began with **Java backend** and CLI development, but the allure of cloud technologies led me towards a new path. 
+I'm a **Cloud Solution Architect at Microsoft** in Germany, helping customers design, build and run modern solutions on **Azure** – from cloud-native platforms to AI-powered operations. ☁️🤖
 
-Today, I wield the power of **automation**, specifically **Terraform**, to build, orchestrate, and maintain complex cloud infrastructures on **Azure**. 
-To keep our Kubernetes cluster humming, I use **GitOps** tools like **flux.cd**. And when it comes to conceptualizing intricate solutions, **draw.io** is my faithful ally. 💻
+My journey started with **Java backend** and CLI development. Cloud technologies soon pulled me in, and I spent years as a **Lead Cloud Architect** building and running enterprise Kubernetes platforms before joining Microsoft.
 
-Away from the codes and clouds, I enjoy a good workout at the gym — because a keen mind is best complemented with a fit body. 💪🏋️‍♂️
+**What I'm into right now**
+- 🧠 **AI agents & Microsoft Foundry**: building agents that use real tools instead of just chatting
+- 🔍 **Observability & SRE**: AI-assisted incident analysis with Azure SRE Agent, ADX and MCP
+- ☸️ **Kubernetes & GitOps**: AKS, **Flux CD** and platform engineering
+- 🏗️ **Infrastructure as Code**: **Terraform** for repeatable, automated Azure setups
+- ✏️ **draw.io**: still my favourite tool for sketching architectures
 
-Catch me at the upcoming **WeAreDeveloper Conference** in Berlin, where I'll be sharing insights on setting up a Kubernetes infrastructure swiftly and efficiently. Looking forward to connecting with you all! 👨‍💻🌐
+**Tech I work with**
+`Azure` `AKS` `Kubernetes` `Terraform` `Flux CD` `Microsoft Foundry` `Azure Data Explorer` `MCP` `GitHub Copilot` `Java`
+
+Away from code and clouds, you'll find me at the gym, because a keen mind works best with a fit body. 💪🏋️‍♂️
+
+📫 Happy to connect and talk about cloud, Kubernetes and AI agents!
