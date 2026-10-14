@@ -12,7 +12,7 @@ My journey started with **Java backend** and CLI development. Cloud technologies
 - ✏️ **draw.io**: still my favourite tool for sketching architectures
 
 **Tech I work with**
-`Azure` `AKS` `Kubernetes` `Terraform` `Flux CD` `Microsoft Foundry` `Azure Data Explorer` `MCP` `GitHub Copilot` `Java`
+`Azure` `AKS` `Kubernetes` `Terraform` `Flux CD` `Microsoft Foundry` `Azure Data Explorer` `MCP` `GitHub Copilot` `Java` `Python` `GoLang`
 
 Away from code and clouds, you'll find me at the gym, because a keen mind works best with a fit body. 💪🏋️‍♂️
 
